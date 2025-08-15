@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "hello-niwa",
-    "slug": "hello-niwa",
+    "name": "reactNativeWebWheelPicker",
+    "slug": "reactNativeWebWheelPicker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "helloniwa",
+    "scheme": "reactNativeWebWheelPicker",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
